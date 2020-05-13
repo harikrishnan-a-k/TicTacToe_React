@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Fully Functional Tic Tac Toe Game Built using React Hooks, styled-components, react-modal. The game has option to select 3 difficulty levels and uses unbeatable AI in hardest level.
 
 ## Available Scripts
 
