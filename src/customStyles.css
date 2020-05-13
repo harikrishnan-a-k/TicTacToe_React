@@ -1,0 +1,15 @@
+.floating-text{
+
+    transform: translateY(0);
+    animation: f11 3s infinite linear;
+}
+
+@keyframes f11 {
+
+    30%{
+        transform: translateY(10%) rotate(6deg);
+    }
+    70%{ 
+        transform: translateY(10%) rotate(-6deg);
+    }
+}
