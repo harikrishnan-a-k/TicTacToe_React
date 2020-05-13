@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/TicTacToe_React/static/css/main.5dae246f.chunk.css",
+    "main.js": "/TicTacToe_React/static/js/main.2ad2c4dd.chunk.js",
+    "main.js.map": "/TicTacToe_React/static/js/main.2ad2c4dd.chunk.js.map",
+    "runtime-main.js": "/TicTacToe_React/static/js/runtime-main.a674447d.js",
+    "runtime-main.js.map": "/TicTacToe_React/static/js/runtime-main.a674447d.js.map",
+    "static/css/2.712fe445.chunk.css": "/TicTacToe_React/static/css/2.712fe445.chunk.css",
+    "static/js/2.a08342ce.chunk.js": "/TicTacToe_React/static/js/2.a08342ce.chunk.js",
+    "static/js/2.a08342ce.chunk.js.map": "/TicTacToe_React/static/js/2.a08342ce.chunk.js.map",
+    "index.html": "/TicTacToe_React/index.html",
+    "precache-manifest.5d8bbd916a62f2768fef5e72d9516ead.js": "/TicTacToe_React/precache-manifest.5d8bbd916a62f2768fef5e72d9516ead.js",
+    "service-worker.js": "/TicTacToe_React/service-worker.js",
+    "static/css/2.712fe445.chunk.css.map": "/TicTacToe_React/static/css/2.712fe445.chunk.css.map",
+    "static/css/main.5dae246f.chunk.css.map": "/TicTacToe_React/static/css/main.5dae246f.chunk.css.map",
+    "static/js/2.a08342ce.chunk.js.LICENSE.txt": "/TicTacToe_React/static/js/2.a08342ce.chunk.js.LICENSE.txt",
+    "static/media/click2.mp3": "/TicTacToe_React/static/media/click2.f12785be.mp3",
+    "static/media/logo.svg": "/TicTacToe_React/static/media/logo.5d5d9eef.svg",
+    "static/media/lost.mp3": "/TicTacToe_React/static/media/lost.535a4cf5.mp3",
+    "static/media/winOrTie.mp3": "/TicTacToe_React/static/media/winOrTie.62afed88.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a674447d.js",
+    "static/css/2.712fe445.chunk.css",
+    "static/js/2.a08342ce.chunk.js",
+    "static/css/main.5dae246f.chunk.css",
+    "static/js/main.2ad2c4dd.chunk.js"
+  ]
+}
